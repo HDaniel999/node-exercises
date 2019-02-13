@@ -2,11 +2,15 @@
   "name": "node-academy",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.js /servidor",
   "scripts": {
+    "server": "serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^10.1.2"
+  }
 }
