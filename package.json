@@ -2,9 +2,9 @@
   "name": "node-academy",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js /servidor",
+  "main": "index.html /servidor",
   "scripts": {
-    "server": "serve",
+    "server": "serve servidor/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
